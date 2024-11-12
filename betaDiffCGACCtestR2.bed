@@ -1,4 +1,4 @@
-track name=cgBetaDiff'ACC' description='BetaDiff median levels of CG Probeset - ACC compared to normalPool - by EpiMethEx 2.0' itemRgb=ON bigDataUrl="https://onedrive.live.com/?cid=B264D5576C820255&id=B264D5576C820255%21s3862a4be5d7742819ee7f568af439e2d&parId=B264D5576C820255%21343&o=OneUp" type=bed								
+track name=cgBetaDiff'ACC' description='BetaDiff median levels of CG Probeset - ACC compared to normalPool - by EpiMethEx 2.0' itemRgb=ON bigDataUrl='https://github.com/Saverio-Candido/Epi/blob/main/betaDiffCGACCtestR2.bed' type=bed								
 chr16	53468111	53468112	cg00000029	0	+	53468111	53468112	192,192,192
 chr3	37459205	37459206	cg00000108	0	+	37459205	37459206	192,192,192
 chr3	171916036	171916037	cg00000109	0	+	171916036	171916037	192,192,192
